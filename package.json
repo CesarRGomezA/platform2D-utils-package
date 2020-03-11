@@ -1,0 +1,23 @@
+{
+  "name": "com.ulsa.platform2d-utils-package",
+  "version": "0.0.1",
+  "displayName": "2D Utils",
+  "description": "Esto es un ejemplo para juegos 2D",
+  "unity": "2019.3",
+  "unityRelease": "19f1",
+  "keywords": [
+    "platform2D",
+    "topdown",
+    "rpg",
+    "physics",
+    "memory",
+    "menu"
+  ],
+  "author": {
+    "name": "ULSA Noroeste",
+    "email": "cesarrgomeza@gmail.com",
+    "url": "https://www.ulsa-noroeste.edu.mx/"
+  },
+  "license": "MIT",
+  "hideInEditor": false
+}
